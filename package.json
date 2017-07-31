@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "description": "test",
+  "url": "https://github.com/Rancow64/tmp_casper.git",
+  "email": "rancow@flancer64.com",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "slimerjs": "^0.10.3"
+  }
+}
